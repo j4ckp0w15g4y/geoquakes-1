@@ -44,7 +44,7 @@ Things to consider in the planning stage:
 <details>
   <summary><strong>Open to see the components</strong></summary>
 
-  ![](./images/react-mapbox-geoquakes-wireframe.jpeg)
+  ![](./public/images/react-mapbox-geoquakes-wireframe.jpeg)
 
 Here we've identified four components on the home page:
 
